@@ -15,6 +15,6 @@
     <string name="added_to_favorites">Added to Favorites</string>
     <string name="action_sort_by_favorite">Favorites</string>
     <string name="action_share">Share</string>
-    <string name="tmdb_api_key">9383bfcea653f038bb340275e4b82605</string>
+    <string name="tmdb_api_key">ENTER KEY HERE!!!</string>
     <string name="Synopsis">Synopsis</string>
 </resources>
