@@ -1,3 +1,3 @@
 # Pop-Movie-2
 
-Enter your TMMDB Key in Strings.xml; Run.
+Enter your TMDB Key in Strings.xml; Run.
